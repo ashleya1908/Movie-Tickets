@@ -1,6 +1,6 @@
-// Ashley Allan, 2228 CS 2010 Section 1004, MOWeFri 11:30am-12:20pm
+// Ashley Allan
 
-//Program 1:Movie Tickets, File:AllanA_pgm1, Due:09/12/2022
+//Program 1:Movie Tickets, File:AllanA_pgm1
 
 /*
 Purpose: To calculate the theater's gross ticket sales, net box office profit, and and the amount paid to the distributor for a movie.
